@@ -1,0 +1,5 @@
+d:\dokumenty\visual studio 2013\Projects\PAI9\UtilService\bin\UtilService.dll.config
+d:\dokumenty\visual studio 2013\Projects\PAI9\UtilService\bin\UtilService.dll
+d:\dokumenty\visual studio 2013\Projects\PAI9\UtilService\bin\UtilService.pdb
+d:\dokumenty\visual studio 2013\Projects\PAI9\UtilService\obj\Debug\UtilService.dll
+d:\dokumenty\visual studio 2013\Projects\PAI9\UtilService\obj\Debug\UtilService.pdb

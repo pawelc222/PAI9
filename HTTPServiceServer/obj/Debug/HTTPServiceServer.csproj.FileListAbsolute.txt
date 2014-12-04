@@ -1,0 +1,6 @@
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\obj\Debug\HTTPServiceServer.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\bin\Debug\HTTPServiceServer.exe.config
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\bin\Debug\HTTPServiceServer.exe
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\bin\Debug\HTTPServiceServer.pdb
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\obj\Debug\HTTPServiceServer.exe
+d:\dokumenty\visual studio 2013\Projects\PAI9\HTTPServiceServer\obj\Debug\HTTPServiceServer.pdb
